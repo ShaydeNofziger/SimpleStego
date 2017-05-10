@@ -1,0 +1,15 @@
+{
+  "name": "simple-stego",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Simple steganography tool for learning stego practices.",
+  "main": "index.js",
+  "author": "Bill Dybas, Shayde Nofziger",
+  "license": "MIT",
+  "dependencies": {
+    "gm": "^1.23.0",
+    "opencv": "^6.0.0",
+    "pkg-config": "^1.1.1",
+    "utf8": "^2.1.2"
+  }
+}
